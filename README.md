@@ -1,6 +1,6 @@
 # TicTacToe
-TicTacToe AI with AlphaBeta pruning algorithm
+TicTacToe AI with Minimax
 
 `____________________________
 
-Uses Minimax with ALphaBeta pruning to play TicTacToe effectively
+Uses Minimax to play TicTacToe effectively
